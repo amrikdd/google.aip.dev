@@ -5,3 +5,6 @@ site/htmlcov
 
 # mypy
 .mypy_cache
+
+# idea
+.idea
